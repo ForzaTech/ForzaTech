@@ -39,3 +39,39 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forzatech&" alt="forzatech" /></p>
 
+
+
+# 👋 Hello, I'm Alireza 🇮🇷
+
+💻 **Full-Stack Developer** | 🚀 **Backend Enthusiast** | 🎨 **Frontend Developer**
+
+🔥 Turning ideas into powerful digital experiences.
+
+## 💻 Skills
+
+🌐 HTML5 • CSS3 • Bootstrap
+⚡ JavaScript (ES6+)
+🐘 PHP • Laravel
+🐍 Python
+🗄️ MySQL
+🔗 REST APIs
+🖥️ Backend Development
+🎨 Frontend Development
+📱 Responsive Web Design
+🤖 Telegram Bot Development
+📢 Social Media Automation
+⚙️ Git & GitHub
+
+## 🚀 Currently
+
+* 🌱 Learning new technologies every day
+* 💡 Building modern web applications
+* 🤝 Open to collaboration on exciting projects
+
+## 🎯 Interests
+
+💻 Programming • Web Development • Linux • Cyber Security • Artificial Intelligence • Automation • Open Source
+
+### ⚡ Motto
+
+**"First, solve the problem. Then, write the code."** 🚀
