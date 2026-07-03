@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ForzaTech</h1>
 <h3 align="center">A passionate frontend / backend developer from Iran</h3>
 
+<img align="right" alt="forza" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQ3bWJ4azAzYXc3eGM2eHhndWQzcXJ1Mnl0aGpyMnZ6d2hpdDh3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forzatech&label=Profile%20views&color=0e75b6&style=flat" alt="forzatech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forzatech" alt="forzatech" /></a> </p>
